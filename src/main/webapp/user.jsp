@@ -39,7 +39,7 @@
         </p>
 
         
-        <a href="events.jsp" class="mt-6 bg-gray-500 hover:bg-black text-white font-semibold py-3 px-6 rounded-lg shadow-md transition">
+        <a href="events.jsp" class="mt-6 bg-gray-400 hover:bg-black text-white font-semibold py-3 px-6 rounded-lg shadow-md transition">
             Explore Events
         </a>
     </div>
